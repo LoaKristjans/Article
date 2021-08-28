@@ -1,0 +1,78 @@
+html, body, {
+    position:fixed;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+}
+
+body{
+    margin: 0;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background: linear-gradient(to right,#deeaee 50%, #b1cbbb 50%);
+    height:100vh;
+    border: 15px solid rgb(255, 255, 255)
+
+}
+
+.header-title {
+text-align: center;
+color: #c94c4c;
+font-size: 2.5em;
+}
+
+
+.container1, .container2, .container3, .header-title {
+    font-family:serif;
+}
+.container1 {
+    color: #c94c4c;
+    text-align: center;
+    margin-left: 2cm;
+    max-width: 10cm;
+    position: relative;
+    top:4cm;
+    bottom:0cm;
+    left: 0cm;
+    right:0cm;
+    font-size: 1.6em;
+    background-color: #b1cbbb;
+    padding: .2em 1.3em;
+    text-transform:capitalize;
+}
+
+.david {
+    margin-top: -1em;
+    font-weight:inherit
+}
+.subject1, .subject2, .subject3 {
+    margin-bottom: -1em;
+    font-weight: bold;
+    font-size: 1.1em;
+}
+
+
+.container2 {
+    color: #c94c4c;
+    text-align: left;
+    margin-left: 2cm;
+    max-width: 10cm;
+    position: relative;
+    top:-6cm;
+    bottom:10cm;
+    left: 20cm;
+    right:0cm;
+    
+}
+.container3 {
+    color: #c94c4c;
+    text-align: left;
+    margin-left: 2cm;
+    max-width: 10cm;
+    position: relative;
+    top:-3cm;
+    bottom:10cm;
+    left: 20cm;
+    right:0cm;
+}
+
