@@ -76,3 +76,15 @@ font-size: 2.5em;
     right:0cm;
 }
 
+.footer {
+    position: relative;
+    top:-3cm;
+    bottom:0cm;
+    left: 1cm;
+    right:0cm;
+    margin-left: 2cm;
+    max-width: 10cm;
+    text-align: center;
+    color: ivory;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
